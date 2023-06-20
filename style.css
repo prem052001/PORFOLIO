@@ -284,6 +284,9 @@ span {
   width: 90%;
 }
 
+.Mongo-bar {
+  width: 70%;
+}  
 .services-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, auto));
